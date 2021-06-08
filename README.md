@@ -1,5 +1,5 @@
 # pcrjjc2 for Discord
-本repo是[pcrjjc2](https://github.com/cc004/pcrjjc2)的discord机器人.
+本repo是[pcrjjc2](https://github.com/cc004/pcrjjc2)的discord机器人, 仅用于tw服.
 
 支持绑定一个用户绑定多个PCR账号以及击剑自动提醒.
 
